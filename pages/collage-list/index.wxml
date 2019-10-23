@@ -1,0 +1,5 @@
+<!-- pages/collage-list/index.wxml -->
+<text>pages/collage-list/index.wxml</text>
+<import src="../../template/template.wxml" />
+<template is="tabBar" data="{{tabBar:bindData.tabBar}}" />
+<image style="width:750rpx;height:900rpx" src="http://oss.wangmiaozero.cn/images/20190713234517.jpg"></image>
