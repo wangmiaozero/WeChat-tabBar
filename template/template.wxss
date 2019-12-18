@@ -14,10 +14,13 @@
   color: #8a8a8a;
   box-shadow: 3rpx 3rpx 3rpx 3rpx #aaa;
   z-index: 9999;
+  display: flex;
+  justify-content: space-between;
 }
 .tabBar-item {
-  float: left;
-  width: 20%;
+  /*  float: left;
+  width: 20%; */
+  flex: 1;
   text-align: center;
   overflow: hidden;
 }
